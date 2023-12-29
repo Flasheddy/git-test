@@ -1,3 +1,3 @@
-# git_test
+# git-test
 My first Git repo!
 Hello Odin!
